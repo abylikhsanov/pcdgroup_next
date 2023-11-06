@@ -21,9 +21,6 @@ export function Header() {
       <a href="#certificates" className="flex items-center text-black text-xl text-center mr-4 mt-4 hover:text-green-600 transition-colors duration-300">
         <SafetyCertificateOutlined className="mr-2" /> Сертификаты
       </a>
-      <a href="#location" className="flex items-center text-black text-xl text-center mr-4 mt-4 hover:text-green-600 transition-colors duration-300">
-        <EnvironmentOutlined className="mr-2" /> Расположение
-      </a>
       <a href="#contact" className="flex items-center text-black text-xl text-center mr-4 mt-4 mb-4 hover:text-green-600 transition-colors duration-300">
         <ContactsOutlined className="mr-2" /> Контакты
       </a>
@@ -55,9 +52,6 @@ export function Header() {
           </a>
           <a href="#certificates" className="flex items-center text-black text-xl text-center mr-4 hover:text-green-600 transition-colors duration-300">
             <SafetyCertificateOutlined className="mr-2" /> Сертификаты
-          </a>
-          <a href="#location" className="flex items-center text-black text-xl text-center mr-4 hover:text-green-600 transition-colors duration-300">
-            <EnvironmentOutlined className="mr-2" /> Расположение
           </a>
           <a href="#contact" className="flex items-center text-black text-xl text-center hover:text-green-600 transition-colors duration-300">
             <ContactsOutlined className="mr-2" /> Контакты

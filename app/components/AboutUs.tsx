@@ -1,6 +1,6 @@
 export function AboutUs() {
     return (
-      <div id="about-us" className="m-8 bg-gradient-to-r from-yellow-50 via-yellow-100 to-yellow-theme p-10 rounded-lg shadow-xl transform transition duration-500 hover:scale-105">
+      <div id="about" className="m-8 bg-gradient-to-r from-yellow-50 via-yellow-100 to-yellow-theme p-10 rounded-lg shadow-xl transform transition duration-500 hover:scale-105">
         <h1 className="text-gray-800 text-center text-4xl font-extrabold m-4">
           История нашего успеха
         </h1>

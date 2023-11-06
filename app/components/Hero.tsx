@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export function Hero() {
   return (
-    <div id="main" className="flex flex-col xl:flex-row bg-white w-full">
+    <div id="home" className="flex flex-col xl:flex-row bg-white w-full">
       <div className="flex flex-col justify-center items-center">
         <h1 className="text-black text-center text-3xl font-bold m-4">PCD Group</h1>
         <p className="text-black text-center text-xl m-4">
